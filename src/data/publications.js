@@ -14,6 +14,18 @@ export const publicationsData = [
   },
   {
     id: 2,
+    title: "Agentic AI for AML Screening: How Autonomous Technology Is Transforming Sanctions Compliance in UAE and other international Banks",
+    source: "LinkedIn Pulse",
+    type: "Article",
+    date: "2026",
+    description: "An analyst copy-pasted the same remark 47 times. The CBUAE inspector noticed. Why cognitive overload is killing screening quality and what AI can actually fix.",
+    thumbnail: "/images/publications/Agentic_AI1.png",
+    link: "https://www.linkedin.com/pulse/agentic-ai-aml-screening-how-autonomous-technology-kiran-kumar--ioitf",
+    tags: ["AML Compliance", "RegTech", "UAE Banking", "CBUAE", "Financial Crime Prevention"],
+    featured: true
+  },
+  {
+    id: 3,
     title: "The Coin That No King Could Control",
     source: "Amazon Kindle",
     type: "Book",

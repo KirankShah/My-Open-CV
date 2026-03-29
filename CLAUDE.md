@@ -49,3 +49,11 @@ src/
 - `Contact.jsx` imports `Phone` from lucide-react — check if it also displays the phone number before editing.
 - CV PDF should be placed at `public/cv/Kiran_Shah_CV.pdf`.
 - Profile image at `public/images/profile.png`.
+- Publication thumbnails live in `public/images/publications/`.
+
+## Publications (current entries in `src/data/publications.js`)
+| id | Title | Source | Thumbnail |
+|----|-------|--------|-----------|
+| 1 | What OFAC's Crypto Mixer Sanctions Mean for Financial Crime Compliance | ACAMS Today | `/images/publications/acams-today-ofac.png` |
+| 2 | Agentic AI for AML Screening: How Autonomous Technology Is Transforming Sanctions Compliance in UAE and other international Banks | LinkedIn Pulse | `/images/publications/Agentic_AI1.png` |
+| 3 | The Coin That No King Could Control | Amazon Kindle | `/images/publications/book-coin-no-king.png` |
